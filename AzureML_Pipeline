@@ -1,8 +1,0 @@
-With Azure Machine Learning Studio, we don't need to write any code to get started using machine learning. With Machine Learning pipelines, we can drag and drop functionality into a graph to create repeatable processing units. In this lab, we create a Machine Learning pipeline to predict the progression of diabetes based on a set of health metrics, all without writing a single line of code.
-
-Scenario
-What if we need to take advantage of the power of machine learning, but don't have time to learn all of the code? What if we need a visual representation of our work to show our boss or other stakeholders? Azure Machine Learning pipelines help with both of these problems. We can start transforming data and training models, all in a visual way.
-
-We will use the Sample: Diabetes dataset to train a model and predict the progression of the disease based on different health markers.
-
-This lab is using the designer feature of Azure Machine Learning Studio. Designer is only available in an Enterprise Machine Learning workspace, one of which has been provisioned for the lab. If we are repeating these steps with our own resources, be sure to use an Enterprise workspace.
